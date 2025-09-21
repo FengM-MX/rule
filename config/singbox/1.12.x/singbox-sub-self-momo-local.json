@@ -14,7 +14,7 @@
       {"domain_suffix": ["services.googleapis.cn", "googleapis.cn", "xn--ngstr-lra8j.com"], "server": "foreign"},
       {"rule_set": ["geosite-cn", "geosite-steamcn", "geosite-apple","game-accelerator"], "server": "local"}
     ],
-    "final": "foreign",
+    "final": "local",
     "strategy": "ipv4_only",
     "independent_cache": true,
     "reverse_mapping": true
